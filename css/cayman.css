@@ -139,47 +139,6 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
   .btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
-.page-header { 
-  color: #000000; 
-  text-align: left; 
-  padding: 40px 15px;
-  margin-right: auto;
-  margin-left: auto;
-}
-@media (min-width: 768px) {
-  .page-header {
-    width: 750px;
-  }
-}
-@media (min-width: 992px) {
-  .page-header {
-    width: 970px;
-  }
-}
-@media (min-width: 1200px) {
-  .page-header {
-    width: 1170px;
-  }
-}
-
-.project-name { 
-  display: inline-block;
-  font-size: 20px;
-  margin-top: 0;
-}
-
-.project-tagline {  
-  display: inline-block;
-  font-size: 15px;
-  font-weight: normal;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: left;
-  color: #000000;
- }
-
 /* .main-content { word-wrap: break-word; }
 .main-content :first-child { margin-top: 0; }
 @media screen and (min-width: 64em) { .main-content { max-width: 64rem; padding: 2rem 6rem; margin: 0 auto; font-size: 1.1rem; } }
