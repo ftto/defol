@@ -6,7 +6,7 @@
   margin-right: auto;
   margin-left: auto;
 }
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .page-header {
     width: 750px;
   }
@@ -15,10 +15,10 @@
   .page-header {
     width: 970px;
   }
-}
+} */
 @media (min-width: 1200px) {
   .page-header {
-    width: 1170px;
+    width: 940px;
   }
 }
 
@@ -47,7 +47,7 @@
   margin-right: auto;
   margin-left: auto;
 }
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .main-content {
     width: 750px;
   }
@@ -56,10 +56,10 @@
   .main-content {
     width: 970px;
   }
-}
+} */
 @media (min-width: 1200px) {
   .main-content {
-    width: 1170px;
+    width: 940px;
   }
 }
 
